@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Excelsior Lagunas Tours</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Excelsior Lagunas Tours</div>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Destinos</a></li>
+        <li><a href="#">Hospedaje</a></li>
+        <li><a href="#">Vuelos</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Viaja con confianza</h1>
+    <p>Explora el mundo con Excelsior Lagunas Tours</p>
+    <a href="#contacto" class="boton">Contáctanos</a>
+  </section>
+
+  <section class="info">
+    <h2>¿Quiénes somos?</h2>
+    <p>Somos una agencia de viajes confiable que ofrece vuelos, hospedajes y experiencias únicas para que vivas tu viaje ideal.</p>
+  </section>
+
+  <footer id="contacto">
+    <p>© 2025 Excelsior Lagunas Tours | Todos los derechos reservados</p>
+    <p>Contáctanos por WhatsApp: <a href="https://wa.me/527774171898" target="_blank">Enviar mensaje</a></p>
+  </footer>
+</body>
+</html>
